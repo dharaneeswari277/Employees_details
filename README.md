@@ -58,6 +58,8 @@ Navigate to the Frontend Directory:
 
 cd Frontend
 
+cd employee-details
+
 Install Dependencies:
 
 npm install axios
